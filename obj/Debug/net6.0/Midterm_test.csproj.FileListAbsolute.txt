@@ -1,0 +1,15 @@
+E:\MDT211\Midterm_test\bin\Debug\net6.0\Midterm_test.exe
+E:\MDT211\Midterm_test\bin\Debug\net6.0\Midterm_test.deps.json
+E:\MDT211\Midterm_test\bin\Debug\net6.0\Midterm_test.runtimeconfig.json
+E:\MDT211\Midterm_test\bin\Debug\net6.0\Midterm_test.dll
+E:\MDT211\Midterm_test\bin\Debug\net6.0\Midterm_test.pdb
+E:\MDT211\Midterm_test\obj\Debug\net6.0\Midterm_test.csproj.AssemblyReference.cache
+E:\MDT211\Midterm_test\obj\Debug\net6.0\Midterm_test.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\Midterm_test\obj\Debug\net6.0\Midterm_test.AssemblyInfoInputs.cache
+E:\MDT211\Midterm_test\obj\Debug\net6.0\Midterm_test.AssemblyInfo.cs
+E:\MDT211\Midterm_test\obj\Debug\net6.0\Midterm_test.csproj.CoreCompileInputs.cache
+E:\MDT211\Midterm_test\obj\Debug\net6.0\Midterm_test.dll
+E:\MDT211\Midterm_test\obj\Debug\net6.0\refint\Midterm_test.dll
+E:\MDT211\Midterm_test\obj\Debug\net6.0\Midterm_test.pdb
+E:\MDT211\Midterm_test\obj\Debug\net6.0\Midterm_test.genruntimeconfig.cache
+E:\MDT211\Midterm_test\obj\Debug\net6.0\ref\Midterm_test.dll
