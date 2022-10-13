@@ -288,12 +288,6 @@ class Program
     }
 
     
-    static void InputNewStudentFromKeyboard()
-    {
-        
-        PrintHeaderRegisterScholar();
-
-    }
     public static void PrintHeaderRegisterStudent()
     {
          
